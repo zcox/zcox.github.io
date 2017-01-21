@@ -93,7 +93,7 @@ url-pretty: "theza.ch"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-2535569-1"
 
 # Google Tag Manager ID
 #gtm: ""
